@@ -1,0 +1,5 @@
+102, 30, 102 - Main Form color
+255,215,0 - Text Color
+255,218,185 - DataGridView color
+105, 60, 105 - GroupForm color
+230,230,250 - PictureBox Color
